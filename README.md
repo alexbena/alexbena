@@ -7,4 +7,4 @@
 
 - ⚡ Fun fact **my job interview at google -> https://www.youtube.com/watch?v=dQw4w9WgXcQ**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexbena&show_icons=true&locale=en" alt="alexbena" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexbena&show_icons=true&locale=en&hide_title=true&theme=tokyonight" alt="alexbena" /></p>
