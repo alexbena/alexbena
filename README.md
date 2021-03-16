@@ -8,5 +8,3 @@
 - ⚡ Fun fact **my job interview at google -> https://www.youtube.com/watch?v=dQw4w9WgXcQ**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexbena&show_icons=true&locale=en" alt="alexbena" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexbena&" alt="alexbena" /></p>
