@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋, Alex here!</h1>
-<h3 align="left">A passionate developer not from India</h3>
+<h3 align="left">That's all</h3>
 
 - 🌱 I’m currently learning **too many interesting things**
 
