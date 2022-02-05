@@ -1,9 +1,7 @@
-<h1 align="left">Hey 👋, Alex here!</h1>
+<h1 align="left">Hey 👋!</h1>
 <h3 align="left">That's all</h3>
 
-- 🌱 I’m currently learning **too many interesting things**
-
-- 📫 How to reach me **alexbenacruz@gmail.com, on the street**
+- 📫 How to reach me **alexbenacruz@gmail.com**
 
 - ⚡ Fun fact **https://www.youtube.com/watch?v=dQw4w9WgXcQ**
 
